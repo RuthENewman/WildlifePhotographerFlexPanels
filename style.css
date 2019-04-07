@@ -70,7 +70,7 @@ body {
 }
 
 .panel > *:first-child {
-  transform: translateY(-200%);
+  transform: translateY(-250%);
 
 }
 
