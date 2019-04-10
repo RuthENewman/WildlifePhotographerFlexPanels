@@ -1,4 +1,4 @@
-# WildlifePhotographerFlexPanels
+# WildlifePhotographerFlexPanels - https://ruthenewman.github.io/WildlifePhotographerFlexPanels/
 Day 6 of challenge to complete 30 vanilla JS projects over 30 days (flex panels of NHM's Wildlife Photographer of the Year 
 images)
 
