@@ -121,7 +121,7 @@ body {
   }
 
   .panel > *:first-child {
-    transform: translateY(-1000%);
+    transform: translateY(-1500%);
 
   }
 
@@ -157,7 +157,7 @@ body {
   }
 
   .panel > *:first-child {
-    transform: translateY(-1000%);
+    transform: translateY(-1500%);
 
   }
 
